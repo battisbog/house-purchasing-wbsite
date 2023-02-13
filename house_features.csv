@@ -1,0 +1,465 @@
+house_id,feature
+4879,Microwave
+4880,Waterfront
+4881,Waterfront
+4882,Cooking basics
+4883,Pets allowed
+4884,Buzzer/wireless intercom
+4885,Pets allowed
+4886,Waterfront
+4887,Waterfront
+4888,Washer
+4889,Cooking basics
+4890,Essentials
+4891,Smoking allowed
+4892,Essentials
+4893,Cooking basics
+4894,Essentials
+4895,Smoking allowed
+4896,Buzzer/wireless intercom
+4897,Cooking basics
+4898,Washer
+4899,Buzzer/wireless intercom
+4900,Buzzer/wireless intercom
+4901,Cooking basics
+4902,Wifi
+4903,Washer
+4904,Washer
+4905,Waterfront
+4906,Microwave
+4907,Cooking basics
+4908,Pets allowed
+4909,Waterfront
+4910,Buzzer/wireless intercom
+4911,Smoking allowed
+4912,Essentials
+4913,Washer
+4914,Cooking basics
+4915,Buzzer/wireless intercom
+4916,Cooking basics
+4917,Pets allowed
+4918,Pets allowed
+4919,Essentials
+4920,Cooking basics
+4921,Smoking allowed
+4922,Cooking basics
+4923,Essentials
+4924,Washer
+4925,Cooking basics
+4926,Smoking allowed
+4927,Essentials
+4928,Cooking basics
+4929,Pets allowed
+4930,Wifi
+4931,Wifi
+4932,Pets allowed
+4933,Cooking basics
+4934,Washer
+4935,Essentials
+4936,Smoking allowed
+4937,Pets allowed
+4938,Microwave
+4939,Waterfront
+4940,Washer
+4941,Pets allowed
+4942,Cooking basics
+4943,Cooking basics
+4944,Washer
+4945,Essentials
+4946,Buzzer/wireless intercom
+4947,Essentials
+4948,Buzzer/wireless intercom
+4949,Wifi
+4950,Waterfront
+4951,Smoking allowed
+4952,Microwave
+4953,Waterfront
+4954,Pets allowed
+4955,Smoking allowed
+4956,Essentials
+4957,Microwave
+4958,Waterfront
+4959,Wifi
+4960,Buzzer/wireless intercom
+4961,Pets allowed
+4962,Buzzer/wireless intercom
+4963,Pets allowed
+4964,Wifi
+4965,Cooking basics
+4966,Essentials
+4967,Washer
+4968,Waterfront
+4969,Essentials
+4970,Pets allowed
+4971,Essentials
+4972,Wifi
+4973,Pets allowed
+4974,Smoking allowed
+4975,Washer
+4976,Washer
+4977,Washer
+4978,Wifi
+4979,Smoking allowed
+4980,Waterfront
+4981,Smoking allowed
+4982,Cooking basics
+4983,Pets allowed
+4984,Waterfront
+4985,Smoking allowed
+4986,Washer
+4987,Wifi
+4988,Waterfront
+4989,Essentials
+4990,Essentials
+4991,Washer
+4992,Microwave
+4993,Pets allowed
+4994,Washer
+4995,Cooking basics
+4996,Washer
+4997,Smoking allowed
+4998,Microwave
+4999,Microwave
+5000,Buzzer/wireless intercom
+5001,Pets allowed
+5002,Cooking basics
+5003,Washer
+5004,Washer
+5005,Smoking allowed
+5006,Washer
+5007,Cooking basics
+5008,Cooking basics
+5009,Pets allowed
+5010,Washer
+5011,Washer
+5012,Buzzer/wireless intercom
+5013,Buzzer/wireless intercom
+5014,Wifi
+5015,Washer
+5016,Washer
+5017,Washer
+5018,Pets allowed
+5019,Wifi
+5020,Cooking basics
+5021,Pets allowed
+5022,Washer
+5023,Smoking allowed
+5024,Washer
+5025,Wifi
+5026,Microwave
+5027,Wifi
+5028,Cooking basics
+5029,Microwave
+5030,Essentials
+5031,Cooking basics
+5032,Wifi
+5033,Essentials
+5034,Cooking basics
+5035,Washer
+5036,Washer
+5037,Waterfront
+5038,Cooking basics
+5039,Pets allowed
+5040,Waterfront
+5041,Pets allowed
+5042,Smoking allowed
+5043,Smoking allowed
+5044,Essentials
+5045,Buzzer/wireless intercom
+5046,Essentials
+5047,Essentials
+5048,Cooking basics
+5049,Cooking basics
+5050,Essentials
+5051,Cooking basics
+5052,Buzzer/wireless intercom
+5053,Washer
+5054,Pets allowed
+5055,Cooking basics
+5056,Cooking basics
+5057,Essentials
+5058,Buzzer/wireless intercom
+5059,Wifi
+5060,Essentials
+5061,Smoking allowed
+5062,Buzzer/wireless intercom
+5063,Washer
+5064,Washer
+5065,Smoking allowed
+5066,Cooking basics
+5067,Microwave
+5068,Cooking basics
+5069,Wifi
+5070,Smoking allowed
+5071,Essentials
+5072,Wifi
+5073,Cooking basics
+5074,Buzzer/wireless intercom
+5075,Microwave
+5076,Smoking allowed
+5077,Waterfront
+5078,Smoking allowed
+5079,Wifi
+5080,Washer
+5081,Buzzer/wireless intercom
+5082,Buzzer/wireless intercom
+5083,Cooking basics
+5084,Wifi
+5085,Wifi
+5086,Smoking allowed
+5087,Waterfront
+5088,Waterfront
+5089,Buzzer/wireless intercom
+5090,Waterfront
+5091,Wifi
+5092,Microwave
+5093,Essentials
+5094,Smoking allowed
+5095,Waterfront
+5096,Cooking basics
+5097,Waterfront
+5098,Essentials
+5099,Wifi
+5100,Buzzer/wireless intercom
+5101,Waterfront
+5102,Essentials
+5103,Cooking basics
+5104,Wifi
+5105,Wifi
+5106,Wifi
+5107,Cooking basics
+5108,Smoking allowed
+5109,Wifi
+5110,Buzzer/wireless intercom
+5111,Cooking basics
+5112,Waterfront
+5113,Waterfront
+5114,Essentials
+5115,Essentials
+5116,Microwave
+5117,Cooking basics
+5118,Cooking basics
+5119,Microwave
+5120,Washer
+5121,Buzzer/wireless intercom
+5122,Washer
+5123,Microwave
+5124,Smoking allowed
+5125,Cooking basics
+5126,Waterfront
+5127,Smoking allowed
+5128,Buzzer/wireless intercom
+5129,Waterfront
+5130,Essentials
+5131,Pets allowed
+5132,Buzzer/wireless intercom
+5133,Wifi
+5134,Pets allowed
+5135,Waterfront
+5136,Microwave
+5137,Cooking basics
+5138,Wifi
+5139,Buzzer/wireless intercom
+5140,Buzzer/wireless intercom
+5141,Microwave
+5142,Cooking basics
+5143,Waterfront
+5144,Waterfront
+5145,Pets allowed
+5146,Essentials
+5147,Smoking allowed
+5148,Cooking basics
+5149,Pets allowed
+5150,Cooking basics
+5151,Microwave
+5152,Essentials
+5153,Cooking basics
+5154,Pets allowed
+5155,Wifi
+5156,Smoking allowed
+5157,Washer
+5158,Washer
+5159,Buzzer/wireless intercom
+5160,Wifi
+5161,Washer
+5162,Microwave
+5163,Waterfront
+5164,Washer
+5165,Pets allowed
+5166,Cooking basics
+5167,Essentials
+5168,Washer
+5169,Microwave
+5170,Buzzer/wireless intercom
+5171,Cooking basics
+5172,Cooking basics
+5173,Microwave
+5174,Buzzer/wireless intercom
+5175,Washer
+5176,Waterfront
+5177,Cooking basics
+5178,Microwave
+5179,Cooking basics
+5180,Microwave
+5181,Waterfront
+5182,Microwave
+5183,Pets allowed
+5184,Wifi
+5185,Washer
+5186,Waterfront
+5187,Buzzer/wireless intercom
+5188,Washer
+5189,Wifi
+5190,Smoking allowed
+5191,Cooking basics
+5192,Cooking basics
+5193,Smoking allowed
+5194,Pets allowed
+5195,Wifi
+5196,Waterfront
+5197,Waterfront
+5198,Wifi
+5199,Buzzer/wireless intercom
+5200,Essentials
+5201,Smoking allowed
+5202,Wifi
+5203,Cooking basics
+5204,Wifi
+5205,Essentials
+5206,Pets allowed
+5207,Washer
+5208,Pets allowed
+5209,Buzzer/wireless intercom
+5210,Pets allowed
+5211,Cooking basics
+5212,Microwave
+5213,Microwave
+5214,Wifi
+5215,Waterfront
+5216,Microwave
+5217,Essentials
+5218,Wifi
+5219,Wifi
+5220,Smoking allowed
+5221,Wifi
+5222,Wifi
+5223,Washer
+5224,Pets allowed
+5225,Cooking basics
+5226,Essentials
+5227,Microwave
+5228,Buzzer/wireless intercom
+5229,Waterfront
+5230,Wifi
+5231,Cooking basics
+5232,Wifi
+5233,Wifi
+5234,Smoking allowed
+5235,Waterfront
+5236,Cooking basics
+5237,Wifi
+5238,Pets allowed
+5239,Waterfront
+5240,Waterfront
+5241,Buzzer/wireless intercom
+5242,Wifi
+5243,Cooking basics
+5244,Waterfront
+5245,Cooking basics
+5246,Washer
+5247,Waterfront
+5248,Microwave
+5249,Essentials
+5250,Cooking basics
+5251,Microwave
+5252,Essentials
+5253,Smoking allowed
+5254,Microwave
+5255,Waterfront
+5256,Essentials
+5257,Buzzer/wireless intercom
+5258,Wifi
+5259,Wifi
+5260,Waterfront
+5261,Washer
+5262,Essentials
+5263,Waterfront
+5264,Wifi
+5265,Washer
+5266,Pets allowed
+5267,Wifi
+5268,Waterfront
+5269,Cooking basics
+5270,Washer
+5271,Smoking allowed
+5272,Microwave
+5273,Wifi
+5274,Waterfront
+5275,Cooking basics
+5276,Smoking allowed
+5277,Essentials
+5278,Wifi
+5279,Cooking basics
+5280,Waterfront
+5281,Essentials
+5282,Essentials
+5283,Washer
+5284,Cooking basics
+5285,Buzzer/wireless intercom
+5286,Wifi
+5287,Essentials
+5288,Pets allowed
+5289,Washer
+5290,Washer
+5291,Cooking basics
+5292,Essentials
+5293,Cooking basics
+5294,Buzzer/wireless intercom
+5295,Buzzer/wireless intercom
+5296,Cooking basics
+5297,Buzzer/wireless intercom
+5298,Cooking basics
+5299,Cooking basics
+5300,Microwave
+5301,Waterfront
+5302,Essentials
+5303,Smoking allowed
+5304,Smoking allowed
+5305,Pets allowed
+5306,Waterfront
+5307,Essentials
+5308,Essentials
+5309,Buzzer/wireless intercom
+5310,Wifi
+5311,Cooking basics
+5312,Microwave
+5313,Washer
+5314,Waterfront
+5315,Cooking basics
+5316,Cooking basics
+5317,Washer
+5318,Smoking allowed
+5319,Microwave
+5320,Cooking basics
+5321,Waterfront
+5322,Cooking basics
+5323,Pets allowed
+5324,Microwave
+5325,Pets allowed
+5326,Cooking basics
+5327,Waterfront
+5328,Cooking basics
+5329,Buzzer/wireless intercom
+5330,Smoking allowed
+5331,Essentials
+5332,Washer
+5333,Smoking allowed
+5334,Waterfront
+5335,Cooking basics
+5336,Essentials
+5337,Cooking basics
+5338,Washer
+5339,Pets allowed
+5340,Smoking allowed
+5341,Cooking basics
+5342,Buzzer/wireless intercom
